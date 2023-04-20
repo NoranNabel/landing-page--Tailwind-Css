@@ -1,0 +1,34 @@
+{
+    "mainProduct": [
+        {
+            "image":"/public/images/carousel/59a3918d-32ca-40ae-b2be-4c393bb559d2.jpg",
+            "title": "Bags",
+            "price": "$120"
+        },
+        {
+            "image":"/public/images/carousel/740a2efe-3566-4f38-b6f2-71a30f36bbde.jpg",
+            "title": "Bags",
+            "price": "$120"
+        },
+        {
+            "image":"/public/images/carousel/download (1).jpg",
+            "title": "Bags",
+            "price": "$120"
+        },
+        {
+            "image":"/public/images/carousel/bantalon.jpg",
+            "title": "Bags",
+            "price": "$120"
+        },
+        {
+            "image":"/public/images/carousel/dresssss.jpg",
+            "title": "Bags",
+            "price": "$120"
+        },
+        {
+            "image":"/public/images/carousel/Urbanos costumatizados.jpg",
+            "title": "Bags",
+            "price": "$120"
+        }
+    ]
+}

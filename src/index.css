@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.react-multiple-carousel__arrow--right::before,
+.react-multiple-carousel__arrow--left::before {
+    color: white;
+    background-color: rgb(34, 33, 33);
+    border-radius: 20px;
+    /* height: 42px; */
+    /* margin-top:10px ; */
+
+
+}
+
+#root>div.react-multi-carousel-list.ml-20>ul>li:nth-child(1) {
+    width: 400px;
+}
+
+@media only screen and (max-width: 768px) {
+    .dev1{
+     margin-left: 60px;
+    }
+    .dev2{
+        margin-left:-66px;
+    }
+    .dev3{
+        margin-left:35px;
+        margin-top: -10px;
+    }
+
+}
