@@ -74,12 +74,14 @@ function NavBar() {
                                 <li className="text-gray-600 border-b-4 border-white hover:text-orange-600 hover:border-orange-500 hover:border-b-4 hover:font-bold hover:ease-in-out duration-300 ">
                                     <Link to="/"> Contact US</Link>
                                 </li>
-                                
+
                             </ul>
                         </div>
                     </div>
                 </div>
             </nav>
+  
+
         </>
     )
 }
